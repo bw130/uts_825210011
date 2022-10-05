@@ -1,0 +1,122 @@
+* {padding: 0; margin:0;}
+
+.menu img{width: 130px; height: 40px; float: left; margin-top: 30px; margin-left: 50px; border-right: 1px solid #b2bec3; padding-right: 80px; }
+
+.lambangsearch img {float:right; height: 100px; width:100px;margin-left: 5px; background:#ff4757; }
+
+.sosmed img {width: 20px; height: 20px; float: right; margin-top: 41px; margin-right: 20px;margin-left: 10px; opacity: 50%;}
+
+.nomortlp img {width: 20px; height: 20px; float: right; margin-right: 7px; margin-top: 41px; }
+
+nav ul li {float: left; list-style:none; background: white; }
+nav ul li:hover {background: #74b9ff;}
+
+nav ul li a {margin-right: 15px; text-decoration: none; padding: 3px 15px; font-family: sans-serif; color:#192a56; }
+nav ul li a:hover {color: white;}
+
+nav ul li ul {display: none;}
+ 
+nav ul li:hover > ul {display: block; }
+
+nav { background:white; height: 40px; line-height: 100px; margin-left: 170px; }
+nav ul li ul {position: absolute;}
+
+nav ul li ul li {float: none; position: relative; line-height: 50px;}
+nav ul li ul li:hover > ul {display: block; }
+
+nav ul ul ul {left: 100%; top: 0; width: 200px;}
+
+.nomortlp h1 {float: right; font-size: 20px; border-right: 1px solid #b2bec3; padding-right: 20px; margin-right: 10px;  }
+
+.menu h1 {font-size: 27px; float: left; margin-top: 33px; margin-left: 3px;}
+
+.gambaratas {width: ;}
+.gambaratas img {width: 100%; height: auto; position: static;filter: brightness(80%);}
+.gambaratas h1 {text-align: center; font-size: 150px; ; font-family: garamond; margin-top: -1000px; margin-bottom: 900px;font-style: italic; color: white; width: 100%; height: auto; position: absolute}
+.gambaratas h2 {text-align: center; font-size: 30px; ; font-family: futura; margin-top: -820px; margin-bottom: 900px; color: white; width: 100%; height: auto;position: absolute}
+
+
+/* ini f1*/
+.all {background-color:#192a56; margin-top: 300px; ; width: 100%}
+.f1 {margin-left: 400px}
+.lambang  { padding-top: 100px; position: relative;}
+.lb h1 {text-align: left; margin-top : 20px; font-size: 15px; color: grey;}
+.lb img {width: 20px; height: 20px; float: left; margin-top: 50px;margin-left: 20px; opacity: 50%;}
+
+/* ini f2*/
+.f2 {float: left; text-align: left;margin-left: 170px; color: white; margin-top: -150px;}
+.f2 h1 {margin-bottom: 20px; font-family: sans-serif}
+.f2 p {margin-top: 10px;color: grey;}
+.f2 p:hover {color:red}
+
+/* ini f3*/
+.f3 {float :left ;margin-left: 80px; color: white; margin-top: -145px; width: 280px;}
+.f3 h1 {margin-bottom: 10px; float: left; font-family: sans-serif; font-size: 28px;}
+.f3 .kiri p {margin-top: 10px;  float: left; margin-right: 500px;color: grey;}
+.f3 .kanan p {margin-top: 10px;  float: left; margin-right: 500px;color: grey;}
+.f3 p:hover {color:red}
+
+/* ini f4*/
+.f4 {float: left; margin-top: -150px; margin-left: 50px;width: 300px;}
+.f4 h1 {color: white; font-family: sans-serif}
+.f4 img {border-radius:8px; margin-top: 20px;}
+
+
+/* ini f5*/
+.f5 p {text-align: center; margin-top: 200px; color: white; padding: 40px; border-top: 1px solid grey}
+.f5 a {color: red;}
+
+
+p:hover {color:red}
+
+.b1 {}
+.judul {background-color:#dfe6e9; height: 270px; width: 750px; margin-left: 397px; margin-top: -55px; }
+.b1 .foto a img {margin-top: 100px; margin-left: 397px; padding-top: 200px;}
+
+.b1 .judul h1 { font-size: 25px; margin-left: 30px; margin-top: 50px; width: 800px; padding-top: 50px; color: #30336b;font-family: sans-serif}
+.b1 .judul h2 { font-size: 15px; width: 620px; text-align: justify; margin-left: 30px; font-family: sans-serif; margin-top: 20px; padding-top: 10px; color: grey}
+.b1 .judul h3  {font-size: 15px; margin-top: -22px; margin-left: 60px; border-right: 1px solid grey ; width: 150px; color: grey;}
+.b1 .judul h4 { font-size: 15px; margin-top: -17px; margin-left:220px;color: grey; }
+
+.b1 .judul img{width: 20px; height: 20px; margin-top: 50px; margin-left: 30px; position :relative}
+.b1 .judul .ke2 img {position: absolute; margin-left: 200px ; margin-top: -18px;}
+
+.b1 .nomor {background-color:#ff4757; font-size: 30px; width: 60px; padding: 15px;border-radius: 10px; margin-left: 450px; margin-top: -340px; position: relative; font-family: sans-serif; color: white;	}
+.b1 .nomor:hover {background-color:#38ada9; border-radius: 10px; border : 1px solid #38ada9; display: block} }
+.b1 .judul h1:hover {color:#ff4757}
+.b1 .judul h3:hover {color:#ff4757}
+.b1 .judul h4:hover {color:#ff4757}
+
+
+.kw {float: right; background-color:#ffcccc; height: 150px; width: 300px;margin-top: -3210px; margin-right:430px;  }
+.kw .search {width: 250px; height: 50px; margin-left: 23px; margin-top: 20px;}
+.kw p {margin-top: 12px;background-color:#38ada9 ; height: 30px; width: 155px; padding: 10px; padding-left: 90px; color: white; margin-left: 23px ; } 
+.kw p:hover {background-color:red}
+
+.cat {float: right; background-color:#ffcccc; margin-top: -3040px; margin-right:430px;width: 270px; padding-left: 30px; font-size: 15px; font-family: serif;}
+.cat h1 {padding-top: 30px; border-bottom: 1px solid grey; padding-bottom: 20px; color: #0a3d62}
+.cat h2 {padding-top: 20px; border-bottom: 1px solid grey; padding-bottom: 20px; font-size: 20px; color: grey;}
+.cat h2:hover {color: red}
+
+.rec {float: right;background-color:#ffcccc; margin-top: -2550px; margin-right:430px;width: 270px;padding-left: 30px; }
+.rec h1 {color: #0a3d62; border-bottom: 1px solid grey;padding-bottom: 20px; font-size: 30px; margin-top: 20px;}
+.rec img {position: relative; margin-top: 10px;} 
+.rec h2 {font-size: 15px ; margin-left: 95px; margin-top: -70px; color:  #0a3d62 }
+.rec h2:hover {color: red}
+.rec h3 {font-size: 15px; margin-left: 95px; margin-top: 10px; color: grey; margin-bottom: 40px;}
+
+.tag {float: right;background-color:#ffcccc; margin-top: -2020px; margin-right:430px;width: 270px;padding-left: 30px; }
+.tag h1 {color: #0a3d62; border-bottom: 1px solid grey;padding-bottom: 20px; font-size: 30px; margin-top: 20px;}
+.tag h2 {background-color: white; text-align: center; width: 100px; font-size: 15px; border: 1px solid grey; margin-top: 20px; margin-left:60px; margin-bottom: 10px; }
+.tag h2:hover {background-color: red}
+
+.ig {float: right; background-color:#ffcccc; margin-top: -1600px; margin-right:430px;width: 270px;padding-left: 25px;}
+.ig h1 {color: #0a3d62; font-family: sans-serif; margin-top: 20px; font-size: 30px;border-bottom: 1px solid grey;padding-bottom: 20px;}
+.ig img {border-radius:8px; margin-top: 20px; margin-left: 20px; margin-bottom: 10px;}
+
+
+.nl {float: right; background-color:#ffcccc; height: 250px; width: 300px;margin-top: -1130px; margin-right:430px;  }
+.nl .search {width: 250px; height: 50px; margin-left: 23px; margin-top: 20px;}
+.nl h1 {color: #0a3d62; font-family: sans-serif; margin-top: 20px; font-size: 30px;border-bottom: 1px solid grey;padding-bottom: 20px; margin-left:20px;}
+.nl p {margin-top: 12px;background-color:#38ada9 ; height: 30px; width: 155px; padding: 10px; padding-left: 90px; color: white; margin-left: 23px ; } 
+.nl p:hover {background-color:red}
